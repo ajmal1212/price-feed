@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.env
+.gitignore
+bun.lockb
+README.md
+docker-compose.yml
+Dockerfile
